@@ -1,0 +1,16 @@
+@hostname = http://localhost
+@port = 6156
+@host = {{hostname}}:{{port}}
+POST {{host}}/auth/register
+Content-Type: application/json
+
+{
+    "email":"myemail@gmail.com",
+    "password": "{{$guid}}",
+    "name":"{{$guid}}"
+}
+###
+GET {{host}}/users?limit=10&page=1
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MjExNmU4ZTAzMGRiMTNmMzQ1MmI4ZmUiLCJpYXQiOjE2NDUzMDk1ODIsImV4cCI6MTY0NzkwMTU4MiwidHlwZSI6InJlZnJlc2gifQ.hKH5IveoR8kFOUqWFQ3DTcTMW9ceyCBiDML5kH45-zU
+
+###
