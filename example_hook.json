@@ -1,0 +1,276 @@
+{
+  "eventType": "addData",
+  "feature": {
+    "attributes": {
+      "age": 28,
+      "email": "younesmrabti50@gmail.com",
+      "rendez_vous": 1710936000000,
+      "votre_website": "https://www.youtube.com/",
+      "war": "Choice_2,Choice_3",
+      "globalid": "{A60E3ABB-C240-452F-AED7-4A9E94FB7281}"
+    },
+    "attachments": {
+      "imagi": [
+        {
+          "globalId": "{53B8A32F-A7E4-4B9D-94AF-23561F9858E9}",
+          "parentGlobalId": "{A60E3ABB-C240-452F-AED7-4A9E94FB7281}",
+          "name": "imagi-20240312-181429.PNG",
+          "contentType": "image/png",
+          "keywords": "imagi",
+          "size": 2760071,
+          "id": 1,
+          "url": "https://services2.arcgis.com/Qxkcrgz2eei2eF1y/arcgis/rest/services/survey123_b9d598e8410f4c4baddfe85f6b88dd9c_form/FeatureServer/0/1/attachments/1"
+        }
+      ],
+      "signa": [
+        {
+          "globalId": "{5C80D781-377B-42AC-8CA2-A4C2A850D157}",
+          "parentGlobalId": "{A60E3ABB-C240-452F-AED7-4A9E94FB7281}",
+          "name": "signa-20240312-181613.jpg",
+          "contentType": "image/jpeg",
+          "keywords": "signa",
+          "size": 5953,
+          "id": 2,
+          "url": "https://services2.arcgis.com/Qxkcrgz2eei2eF1y/arcgis/rest/services/survey123_b9d598e8410f4c4baddfe85f6b88dd9c_form/FeatureServer/0/1/attachments/2"
+        }
+      ]
+    },
+    "geometry": {
+      "rings": [
+        [
+          [
+            -2.3226346693555513,
+            34.918008175516114,
+            0
+          ],
+          [
+            -2.3237887416410388,
+            34.91722049426004,
+            0
+          ],
+          [
+            -2.3233684725462354,
+            34.91665707871843,
+            0
+          ],
+          [
+            -2.322327806200235,
+            34.91727519458748,
+            0
+          ],
+          [
+            -2.3222010583797044,
+            34.917822195905224,
+            0
+          ],
+          [
+            -2.322161032746493,
+            34.918325433890516,
+            0
+          ],
+          [
+            -2.3225279343467093,
+            34.91852235226223,
+            0
+          ],
+          [
+            -2.3230882931431154,
+            34.91853876211124,
+            0
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "wkid": 4326
+      }
+    },
+    "result": {
+      "globalId": "{A60E3ABB-C240-452F-AED7-4A9E94FB7281}",
+      "objectId": 1,
+      "success": true,
+      "uniqueId": 1
+    },
+    "layerInfo": {
+      "id": 0,
+      "name": "survey"
+    }
+  },
+  "applyEdits": [
+    {
+      "id": 0,
+      "attachments": {
+        "adds": [
+          {
+            "uploadId": "ee84d63078cd43de8683674e598facf1",
+            "globalId": "{53B8A32F-A7E4-4B9D-94AF-23561F9858E9}",
+            "parentGlobalId": "{A60E3ABB-C240-452F-AED7-4A9E94FB7281}",
+            "name": "imagi-20240312-181429.PNG",
+            "contentType": "image/png",
+            "keywords": "imagi",
+            "size": 2760071
+          },
+          {
+            "uploadId": "348954ed66d64f5e80ba14051be2b9ed",
+            "globalId": "{5C80D781-377B-42AC-8CA2-A4C2A850D157}",
+            "parentGlobalId": "{A60E3ABB-C240-452F-AED7-4A9E94FB7281}",
+            "name": "signa-20240312-181613.jpg",
+            "contentType": "image/jpeg",
+            "keywords": "signa",
+            "size": 5953
+          }
+        ]
+      },
+      "adds": [
+        {
+          "attributes": {
+            "age": 28,
+            "email": "younesmrabti50@gmail.com",
+            "rendez_vous": 1710936000000,
+            "votre_website": "https://www.youtube.com/",
+            "war": "Choice_2,Choice_3",
+            "globalid": "{A60E3ABB-C240-452F-AED7-4A9E94FB7281}"
+          },
+          "attachments": {
+            "imagi": [
+              {
+                "globalId": "{53B8A32F-A7E4-4B9D-94AF-23561F9858E9}",
+                "parentGlobalId": "{A60E3ABB-C240-452F-AED7-4A9E94FB7281}",
+                "name": "imagi-20240312-181429.PNG",
+                "contentType": "image/png",
+                "keywords": "imagi",
+                "size": 2760071,
+                "id": 1,
+                "url": "https://services2.arcgis.com/Qxkcrgz2eei2eF1y/arcgis/rest/services/survey123_b9d598e8410f4c4baddfe85f6b88dd9c_form/FeatureServer/0/1/attachments/1"
+              }
+            ],
+            "signa": [
+              {
+                "globalId": "{5C80D781-377B-42AC-8CA2-A4C2A850D157}",
+                "parentGlobalId": "{A60E3ABB-C240-452F-AED7-4A9E94FB7281}",
+                "name": "signa-20240312-181613.jpg",
+                "contentType": "image/jpeg",
+                "keywords": "signa",
+                "size": 5953,
+                "id": 2,
+                "url": "https://services2.arcgis.com/Qxkcrgz2eei2eF1y/arcgis/rest/services/survey123_b9d598e8410f4c4baddfe85f6b88dd9c_form/FeatureServer/0/1/attachments/2"
+              }
+            ]
+          },
+          "geometry": {
+            "rings": [
+              [
+                [
+                  -2.3226346693555513,
+                  34.918008175516114,
+                  0
+                ],
+                [
+                  -2.3237887416410388,
+                  34.91722049426004,
+                  0
+                ],
+                [
+                  -2.3233684725462354,
+                  34.91665707871843,
+                  0
+                ],
+                [
+                  -2.322327806200235,
+                  34.91727519458748,
+                  0
+                ],
+                [
+                  -2.3222010583797044,
+                  34.917822195905224,
+                  0
+                ],
+                [
+                  -2.322161032746493,
+                  34.918325433890516,
+                  0
+                ],
+                [
+                  -2.3225279343467093,
+                  34.91852235226223,
+                  0
+                ],
+                [
+                  -2.3230882931431154,
+                  34.91853876211124,
+                  0
+                ]
+              ]
+            ],
+            "spatialReference": {
+              "wkid": 4326
+            }
+          },
+          "result": {
+            "globalId": "{A60E3ABB-C240-452F-AED7-4A9E94FB7281}",
+            "objectId": 1,
+            "success": true,
+            "uniqueId": 1
+          },
+          "layerInfo": {
+            "id": 0,
+            "name": "survey"
+          }
+        }
+      ],
+      "layerInfo": {
+        "id": 0,
+        "name": "survey",
+        "type": "Feature Layer",
+        "objectIdField": "objectid",
+        "globalIdField": "globalid",
+        "relationships": []
+      }
+    }
+  ],
+  "response": [
+    {
+      "addResults": [
+        {
+          "globalId": "{A60E3ABB-C240-452F-AED7-4A9E94FB7281}",
+          "objectId": 1,
+          "success": true,
+          "uniqueId": 1
+        }
+      ],
+      "attachments": {
+        "addResults": [
+          {
+            "globalId": "{53B8A32F-A7E4-4B9D-94AF-23561F9858E9}",
+            "objectId": 1,
+            "success": true
+          },
+          {
+            "globalId": "{5C80D781-377B-42AC-8CA2-A4C2A850D157}",
+            "objectId": 2,
+            "success": true
+          }
+        ],
+        "deleteResults": [],
+        "updateResults": []
+      },
+      "id": 0
+    }
+  ],
+  "surveyInfo": {
+    "formItemId": "b9d598e8410f4c4baddfe85f6b88dd9c",
+    "formTitle": "Contract",
+    "serviceItemId": "a7160ca8906a4348bffb197e1193bb05",
+    "serviceUrl": "https://services2.arcgis.com/Qxkcrgz2eei2eF1y/arcgis/rest/services/survey123_b9d598e8410f4c4baddfe85f6b88dd9c_form/FeatureServer"
+  },
+  "portalInfo": {
+    "url": "https://www.arcgis.com",
+    "token": "3NKHt6i2urmWtqOuugvr9SG3teLzUeUTtfJZMXAvJoTM8edSerVxTOiVt7yDz0qdGl_c2l5U7zq6bMQpvHRBH8fqT7XYMo5FQc1phxrIwOTu5ZHS5JRsxuW_taZ4aUZPX8RvZgzSq87oyhELshyK-zVtL6TaqvF14XV1alHKQ0sesCpE6Kra3z3CAgEydgm5ujYEE6QpDDgNSPQlEGRj0E2oY2KyTgbf5VqPBX7KAw5uawlbTbC7EbjXvL8CpHgu"
+  },
+  "userInfo": {
+    "username": "developper_arcgis_sdmb",
+    "firstName": "Younes",
+    "lastName": "M'RABTI",
+    "fullName": "Younes M'RABTI",
+    "email": "mrabti.sdmb.sig@gmail.com"
+  }
+}
